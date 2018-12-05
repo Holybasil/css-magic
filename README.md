@@ -16,7 +16,7 @@ npm install -g @vue/cli-service-global
 // start
 cd css-tricks
 npm install
-npm serve [filename]
+vue serve [filename]
 ```
 
 
